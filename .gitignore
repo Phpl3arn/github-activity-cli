@@ -1,0 +1,12 @@
+# Hassas bilgiler ve ortam dosyaları
+.env
+
+# Python sanal ortam klasörü
+venv/
+
+# Python tarafından oluşturulan önbellek klasörleri ve dosyaları
+__pycache__/
+*.pyc
+
+# Pycharm'ın kendi proje dosyaları (isteğe bağlı ama tavsiye edilir)
+.idea/
